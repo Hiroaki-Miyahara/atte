@@ -1,0 +1,20 @@
+h2,p {
+    margin: 0;
+}
+html,body,main {
+    height: 100%;
+    width: 100%;
+}
+header {
+    width: 100%;
+    margin: 0 auto;
+}
+.header__inner {
+    padding: 15px 40px;
+}
+.footer {
+    text-align: center;
+}
+.footer__inner {
+    padding: 7px;
+}
